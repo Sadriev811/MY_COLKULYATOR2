@@ -1,0 +1,5 @@
+@media(max-width:576px) {
+    .cotnainer {
+        padding: 0 20px;
+    }
+}
